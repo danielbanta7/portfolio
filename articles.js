@@ -120,6 +120,16 @@ const articles = [
                 article_url: 'https://www.scotsmanguide.com/news/lenders-increasingly-turn-to-technology-and-automation/',
                 tags: ['Emerging Technology', 'Data & Trends', 'Artificial Intelligence', 'Lending'],
             },
+             {
+                id: 'st-louis-fed-details-depth-of-housing-supply-crisis-april-2026',
+                title: 'An underbuilt America: St. Louis Fed details depth of housing supply crisis',
+                publication: 'Scotsman Guide Article',
+                genre: 'News & Analysis',
+                date: '2026-04-17',
+                summary: "The U.S. is short up to 5 million homes due to labor issues, zoning laws and rising costs, Fed study finds",
+                article_url: 'https://www.scotsmanguide.com/news/an-underbuilt-america-st-louis-fed-details-depth-of-housing-supply-crisis/',
+                tags: ['Real Estate', 'Data & Trends', 'Federal Reserve'],
+            },
               {
                 id: 'fhfa-repeal-biden-era-housing-protections-feb-2026',
                 title: 'FHFA finalizes repeal of Biden-era equitable housing regulations',
